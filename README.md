@@ -305,4 +305,4 @@ considered invasive.
 
 ## License
 
-Copyright 2014 Bluemont Labs LLC
+Released under the Eclipse Public License. Copyright 2014 Bluemont Labs LLC.
