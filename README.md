@@ -11,20 +11,6 @@ With Kuzu:
   * you don't have to wait long for work to be done
   * bring your own process supervision and dev-ops, if you want
 
-Perhaps one day Kuzu will take hold as a useful, distributed computation tool
-in your ecosystem?
-
-This project is named after 'kuzu', a more accurate spelling of [kudzo], the
-"climbing, coiling, trailing, perennial vines native to much of eastern Asia,
-southeast Asia, and some Pacific Islands." In other habitats, kudzo is often
-considered invasive. Unfortunately, ecologists often fail to appreciate a
-superior organism even when it slaps its tendrils in their face. I'm kidding:
-you probably should go out and remove kudzo while there are still native forms
-of biodiversity remaining. I'm still kidding, but at least it was meta-kidding
-that last time. Anyhow, back to Kuzu!
-
-[kudzo]: http://en.wikipedia.org/wiki/Kudzu
-
 Kuzu provides these functions:
 
   * `eval` remote evaluation (blocking)
@@ -307,6 +293,15 @@ feedback on the source code.
 
 Currently, the README is the test suite. Shamefully, I have not taken the time
 to figure out how to create an automated test suite.
+
+### Name
+
+This project is named after 'kuzu', a more accurate spelling of [kudzo], the
+"climbing, coiling, trailing, perennial vines native to much of eastern Asia,
+southeast Asia, and some Pacific Islands." In other habitats, kudzo is often
+considered invasive.
+
+[kudzo]: http://en.wikipedia.org/wiki/Kudzu
 
 ## License
 
