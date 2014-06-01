@@ -292,7 +292,7 @@ feedback on the source code.
 ### Tests, Where Art Thou?
 
 Currently, the README is the test suite. Shamefully, I have not taken the time
-to figure out how to create an automated test suite.
+to create automated tests.
 
 ### Name
 
