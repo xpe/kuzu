@@ -279,7 +279,7 @@ under process supervision. You also may want to lock down and/or encrypt
 traffic to the nREPL ports.
 
 Note: I have not run Kuzu in production yet, but I expect that it will creep
-it way into my servers soon enough.
+its way into my servers soon enough.
 
 ### Source Code Notes
 
